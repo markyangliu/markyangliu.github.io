@@ -3,4 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: home
 ---
+<h1>{{ "Hello World!" | downcase }}</h1>
