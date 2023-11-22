@@ -7,10 +7,8 @@ title: home
 ---
 
 # Class Papers
-<a href="markyangliu.github.io/papers/raftgfs.pdf" target="_blank">Raft on GFS.</a>
+<a href="markyangliu.github.io/papers/raftgfs.pdf" target="_blank">GFS+Raft: Using Raft to Improve Fault Tolerance in GFS.</a> (Spring 2023)
 
-<a href="markyangliu.github.io/papers/scheduler.pdf" target="_blank">Schedulers in xv6.</a>
+<a href="markyangliu.github.io/papers/scheduler.pdf" target="_blank">Implementing and Evaluating Schedulers in xv6.</a> (Fall 2022)
 
-<a href="markyangliu.github.io/papers/sieve.pdf" target="_blank">Quadratic Sieve.</a>
-
-
+<a href="markyangliu.github.io/papers/sieve.pdf" target="_blank">Quadratic Sieve.</a> (Spring 2022)
