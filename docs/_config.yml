@@ -16,8 +16,7 @@
 title: mark y. liu
 email: markyangliu3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey, thanks for stopping by! I'm currently a student at Duke University studying computer science with a minor in mathematics. 
-
+  Hey, thanks for stopping by! I'm currently a student at Duke University studying computer science with a minor in mathematics.  
   My email is myl18 (at) duke (dot) edu.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
